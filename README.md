@@ -21,7 +21,7 @@
 - [📊 Model Training & Accuracy Graphs](#-model-training--accuracy-graphs)
 - [📈 Performance Metrics Table](#-performance-metrics-table)
 - [⚙️ How to Setup & Run](#️-how-to-setup--run)
-- [👨‍💻 Author](#-author)
+- [👨‍💻 Amir-Sohail](#-amir-sohail-ai-ml-dl)
 
 ---
 
