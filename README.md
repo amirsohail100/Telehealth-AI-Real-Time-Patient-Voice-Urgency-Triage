@@ -76,7 +76,7 @@ git clone https://github.com/amirsohail100/Telehealth-AI-Real-Time-Patient-Voice
 ```
 
 ```bash
-cd Synthetic-Food-Delivery-Transactions-Prediction
+cd Telehealth-AI-Real-Time-Patient-Voice-Urgency-Triage
 ```
 
 ```bash
