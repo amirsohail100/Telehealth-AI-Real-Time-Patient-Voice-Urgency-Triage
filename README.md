@@ -71,4 +71,28 @@ Here is the user interface screenshot for the web application built with Streaml
 └── ouput.png                         # Model Performance Plots
 ```
 
+```bash
+git clone https://github.com/amirsohail100/Synthetic-Food-Delivery-Transactions-Prediction.git
+```
+
+```bash
+cd Synthetic-Food-Delivery-Transactions-Prediction
+```
+
+```bash
+streamlit run app.py
+```
+
+```bash
+python install -r requirements.txt
+```
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+## 📝 Author
+
+👤 **Amir Sohail**
+
 Telehealth AI: Real-Time Patient Voice Urgency Triage is an advanced Deep Learning system powered by a 5-layer Artificial Neural Network (ANN) that analyzes vocal acoustics & speech features with 96.9% R² Accuracy to predict emergency patient urgency via web UI and live audio.
