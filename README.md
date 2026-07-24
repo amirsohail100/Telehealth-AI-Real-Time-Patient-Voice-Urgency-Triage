@@ -7,7 +7,7 @@
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://tensorflow.org)
 [![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io)
-[![Accuracy](https://img.shields.io/badge/Val_R²_Accuracy-96.90%25-brightgreen?style=for-the-badge)](#-model-accuracy--performance-metrics)
+[![Accuracy](https://img.shields.io/badge/Val_R²_Accuracy-96.90%25-brightgreen?style=for-the-badge)](#-model-training--accuracy-graphs)
 [![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 
 ---
@@ -18,7 +18,8 @@
 - [🖥️ Streamlit Web Application Interface](#️-streamlit-web-application-interface)
 - [📂 Repository Directory Structure](#-repository-directory-structure)
 - [🧠 ANN Architecture & Neuron Layout](#-ann-architecture--neuron-layout)
-- [📊 Model Accuracy & Performance Metrics](#-model-accuracy--performance-metrics)
+- [📊 Model Training & Accuracy Graphs](#-model-training--accuracy-graphs)
+- [📈 Performance Metrics Table](#-performance-metrics-table)
 - [⚙️ How to Setup & Run](#️-how-to-setup--run)
 - [👨‍💻 Author](#-author)
 
@@ -36,7 +37,7 @@ Powered by a customized **Artificial Neural Network (ANN)**, the system achieves
 
 ## 🖥️ Streamlit Web Application Interface
 
-Below is the user interface designed for clinical workflows:
+Here is the user interface screenshot for the web application built with Streamlit:
 
 ![Streamlit Web Application UI](image_5aa286.png)
 
@@ -59,6 +60,6 @@ Below is the user interface designed for clinical workflows:
 ├── speech_recognition_transcription  # Dataset containing audio/speech acoustic features
 ├── image_5aa286.png                  # UI Screenshot
 └── image_5aa27f.png                  # Model Performance Plots
+```
 
 Telehealth AI: Real-Time Patient Voice Urgency Triage is an advanced Deep Learning system powered by a 5-layer Artificial Neural Network (ANN) that analyzes vocal acoustics & speech features with 96.9% R² Accuracy to predict emergency patient urgency via web UI and live audio.
-```
