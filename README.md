@@ -38,7 +38,7 @@ Powered by a customized **Artificial Neural Network (ANN)**, the system achieves
 
 Below is the user interface designed for clinical workflows:
 
-![Telehealth AI Application UI](image_5aa286.png)
+![Streamlit Web Application UI](image_5aa286.png)
 
 > **Key UI Capabilities:**
 >
