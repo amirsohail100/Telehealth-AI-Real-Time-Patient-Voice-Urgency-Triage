@@ -35,11 +35,19 @@ Powered by a customized **Artificial Neural Network (ANN)**, the system achieves
 
 ---
 
+### 📊 Model Training & Accuracy Graphs
+
+![Model Training & Accuracy Graph](./path/to/your/graph-image.png)
+
+_Figure: Training vs Validation Accuracy and Loss across epochs._
+
+---
+
 ## 🖥️ Streamlit Web Application Interface
 
 Here is the user interface screenshot for the web application built with Streamlit:
 
-![Streamlit Web Application UI](image_5aa286.png)
+![Streamlit Web Application UI](UI.png)
 
 > **Key UI Capabilities:**
 >
