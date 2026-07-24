@@ -57,9 +57,10 @@ Here is the user interface screenshot for the web application built with Streaml
 ├── model.h5                          # Trained Keras Artificial Neural Network (ANN) model
 ├── model.ipynb                       # Jupyter Notebook (EDA, Preprocessing, ANN Training)
 ├── scaler.pkl                        # StandardScaler object for input normalization
+├── columns.pkl                       # List of input features for ANN model
 ├── speech_recognition_transcription  # Dataset containing audio/speech acoustic features
-├── image_5aa286.png                  # UI Screenshot
-└── image_5aa27f.png                  # Model Performance Plots
+├── UI.png                            # UI Screenshot
+└── ouput.png                         # Model Performance Plots
 ```
 
 Telehealth AI: Real-Time Patient Voice Urgency Triage is an advanced Deep Learning system powered by a 5-layer Artificial Neural Network (ANN) that analyzes vocal acoustics & speech features with 96.9% R² Accuracy to predict emergency patient urgency via web UI and live audio.
