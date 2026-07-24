@@ -72,7 +72,7 @@ Here is the user interface screenshot for the web application built with Streaml
 ```
 
 ```bash
-git clone https://github.com/amirsohail100/Synthetic-Food-Delivery-Transactions-Prediction.git
+git clone https://github.com/amirsohail100/Telehealth-AI-Real-Time-Patient-Voice-Urgency-Triage.git
 ```
 
 ```bash
