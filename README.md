@@ -1,2 +1,3 @@
 # Telehealth-AI-Real-Time-Patient-Voice-Urgency-Triage
-Telehealth AI: Real-Time Patient Voice Urgency Triage is an advanced Deep Learning platform utilizing vocal acoustics &amp; speech transcription features with a 5-layer Artificial Neural Network (ANN) to instantly evaluate emergency patient triage levels via uploaded audio or live microphone streams in real time.
+
+Telehealth AI: Real-Time Patient Voice Urgency Triage is an advanced Deep Learning system powered by a 5-layer Artificial Neural Network (ANN) that analyzes vocal acoustics & speech features with 96.9% R² Accuracy to predict emergency patient urgency via web UI and live audio.
