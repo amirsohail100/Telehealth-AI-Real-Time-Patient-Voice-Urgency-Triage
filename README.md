@@ -37,7 +37,7 @@ Powered by a customized **Artificial Neural Network (ANN)**, the system achieves
 
 ### 📊 Model Training & Accuracy Graphs
 
-![Model Training & Accuracy Graph](./path/to/your/graph-image.png)
+![Model Training & Accuracy Graph](output.png)
 
 _Figure: Training vs Validation Accuracy and Loss across epochs._
 
