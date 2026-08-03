@@ -61,14 +61,15 @@ Here is the user interface screenshot for the web application built with Streaml
 
 ```text
 .
-├── app.py                            # Streamlit frontend & inference code
-├── model.h5                          # Trained Keras Artificial Neural Network (ANN) model
-├── model.ipynb                       # Jupyter Notebook (EDA, Preprocessing, ANN Training)
-├── scaler.pkl                        # StandardScaler object for input normalization
-├── columns.pkl                       # List of input features for ANN model
-├── speech_recognition_transcription  # Dataset containing audio/speech acoustic features
-├── UI.png                            # UI Screenshot
-└── ouput.png                         # Model Performance Plots
+├── app.py                                  # Streamlit frontend & inference code
+├── model.h5                                # Trained Keras Artificial Neural Network (ANN) model
+├── model.ipynb                             # Jupyter Notebook (EDA, Preprocessing, ANN Training)
+├── scaler.pkl                              # StandardScaler object for input normalization
+├── columns.pkl                             # List of input features for ANN model
+├── speech_recognition_transcription.csv    # Dataset containing audio/speech acoustic features
+├── UI.png                                  # UI Screenshot
+├── README.md                               # Documentation
+└── ouput.png                               # Model Performance Plots
 ```
 
 ```bash
