@@ -47,7 +47,7 @@ _Figure: Training vs Validation Accuracy and Loss across epochs._
 
 Here is the user interface screenshot for the web application built with Streamlit:
 
-![Streamlit Web Application UI](UI.png)
+![Telehealth AI : Streamlit Web Application UI](UI.png)
 
 > **Key UI Capabilities:**
 >
