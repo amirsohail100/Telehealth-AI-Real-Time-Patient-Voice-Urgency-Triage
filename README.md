@@ -62,6 +62,8 @@ Here is the user interface screenshot for the web application built with Streaml
 ```text
 .
 ├── app.py                                  # Streamlit frontend & inference code
+├── .gitignore                              # Git Ignore File
+├── .gitattributes                          # Git Attributes File
 ├── model.h5                                # Trained Keras Artificial Neural Network (ANN) model
 ├── model.ipynb                             # Jupyter Notebook (EDA, Preprocessing, ANN Training)
 ├── scaler.pkl                              # StandardScaler object for input normalization
